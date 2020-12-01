@@ -110,4 +110,4 @@ when dealing with user input.
 Dependencies
 ------------
 
-* `activesupport` >= 4.1.0
+* `activesupport` >= 4.1.0, <= 6.0.3.4
